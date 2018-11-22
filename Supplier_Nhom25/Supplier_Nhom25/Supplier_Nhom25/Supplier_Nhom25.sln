@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{F0AE4805-9106-40E2-963F-9AE1138999E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{4BB9327D-41C7-4722-9DFA-0A9EDC414165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{CCEE83E6-9A8D-413D-8BED-A2DBBA411F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0AE4805-9106-40E2-963F-9AE1138999E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0AE4805-9106-40E2-963F-9AE1138999E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0AE4805-9106-40E2-963F-9AE1138999E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0AE4805-9106-40E2-963F-9AE1138999E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BB9327D-41C7-4722-9DFA-0A9EDC414165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BB9327D-41C7-4722-9DFA-0A9EDC414165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BB9327D-41C7-4722-9DFA-0A9EDC414165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BB9327D-41C7-4722-9DFA-0A9EDC414165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCEE83E6-9A8D-413D-8BED-A2DBBA411F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEE83E6-9A8D-413D-8BED-A2DBBA411F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEE83E6-9A8D-413D-8BED-A2DBBA411F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEE83E6-9A8D-413D-8BED-A2DBBA411F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45C73CB1-0637-4CA5-8B81-04BD129563DF}
+	EndGlobalSection
+EndGlobal

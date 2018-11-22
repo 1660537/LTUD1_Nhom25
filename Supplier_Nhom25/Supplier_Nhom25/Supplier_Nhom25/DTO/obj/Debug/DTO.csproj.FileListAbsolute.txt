@@ -1,0 +1,7 @@
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\bin\Debug\DTO.dll
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\bin\Debug\DTO.pdb
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\obj\Debug\DTO.dll
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\obj\Debug\DTO.pdb
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\bin\Debug\DAO.dll
+E:\Game\Supplier_Nhom25\Supplier_Nhom25\DTO\bin\Debug\DAO.pdb
